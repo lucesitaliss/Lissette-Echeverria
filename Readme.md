@@ -5,6 +5,7 @@ Hi! my name is Lissette, I'am a FullStack Web. Next I will tell you a little abo
 ## **About me**
 
 I love the world of programming and how its implementation enhances efficiency in any process.
+I have knowledge in HTML5, Node Js, React Js, Redux, Express Js, Next Js, SQL, Postgres, TypeScript, Tailwind, Git, Figma, among others. With background in data analysis, database design, creation of applications with Microsoft tools, achieving increased sales of different companies. With creative thinking, problem solving, teamwork, communication and autonomy.
 
 ## **Contact me**
 
