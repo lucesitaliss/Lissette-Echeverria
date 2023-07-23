@@ -11,8 +11,6 @@ I have knowledge in HTML5, CSS, Javascript Node, React, Redux, Express, Next, SQ
 
 #### Buenos Aires, Argentina
 
-#### (+54) 9 1127879720
-
 #### ing.liss87@gmail.com
 
 ## **Technologies**
